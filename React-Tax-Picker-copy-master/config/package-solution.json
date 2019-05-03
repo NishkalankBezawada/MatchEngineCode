@@ -1,0 +1,13 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "taxonomy-picker-client-side-solution",
+    "id": "38fa967f-8e21-4082-b9fc-360aab79ed5b",
+    "version": "1.0.0.42",
+    "includeClientSideAssets": true,
+    "isDomainIsolated": true
+  },
+  "paths": {
+    "zippedPackage": "solution/taxonomy-picker.sppkg"
+  }
+}
